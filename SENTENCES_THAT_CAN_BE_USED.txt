@@ -1,0 +1,8 @@
+sentences that cannot be understandable wth terms:weekdays,months
+
+
+extra test cases
+yesterday at 5 am/pm
+day before yesterday at 5 am/pm/o'clock
+20 minutes after/before/from  midnight/noon
+Looking to a make reservation for two people day after tomorrow at 7/ am/pm.etc
